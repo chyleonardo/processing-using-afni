@@ -39,7 +39,7 @@ Also welcome any comments
 
 8. fMRI dataset whole control
    nibabel tutorial 
-
+   https://bic-berkeley.github.io/psych-214-fall-2016/saving_images.html#making-and-saving-new-images-in-nibabel
 9. ROI_label check FreeSurfer 
    in SUMA .lt file
 
