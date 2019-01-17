@@ -2,7 +2,7 @@
 this repository includes all the methods I've used in AFNI
 Here is the processing script I have already used.
 I wrote this mostly for myself
-Also welcome any comments
+But still welcome any comments
 
 0. DICOM to nifti
    tcsh @dcm_make_nifti
